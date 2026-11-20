@@ -1,0 +1,551 @@
+[
+  {
+    "name": "wuhan-river",
+    "title": "File:Skyline of Wuhan-2.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Skyline_of_Wuhan-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Skyline_of_Wuhan-2.jpg/3840px-Skyline_of_Wuhan-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Wuhan-2.jpg",
+    "originalWidth": 6578,
+    "originalHeight": 2885,
+    "artist": "Majorantarktis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "A wide-sized view of Wuhan from the East lake Greenway, an ecologic preserve for all the people near the Wuhan University",
+    "downloadedAt": "2026-11-18T13:14:03.384760+00:00",
+    "downloadSha256": "2df6437d9e3924494c0f0dd6cfad0dcd1935cda77bfb12fb2c48b4912c433daf",
+    "downloadWidth": 3840,
+    "downloadHeight": 1684,
+    "variants": [
+      {
+        "file": "wuhan-river-960.webp",
+        "width": 960,
+        "height": 421,
+        "bytes": 32642,
+        "sha256": "931889985ef23933f62128627fdd9e385f5157a3dc1bb6dce0c5ea26b4bf6faf"
+      },
+      {
+        "file": "wuhan-river-1920.webp",
+        "width": 1920,
+        "height": 842,
+        "bytes": 102872,
+        "sha256": "fe1d0d99077c4242c795b775835a58e239c727d030943df150ca7973f68885fb"
+      },
+      {
+        "file": "wuhan-river-2560.webp",
+        "width": 2560,
+        "height": 1123,
+        "bytes": 174230,
+        "sha256": "7d42942beed5858a734edf28fb7de29d5ceb97be9d62a96b24509b97a70cb2b7"
+      },
+      {
+        "file": "wuhan-river-3840.webp",
+        "width": 3840,
+        "height": 1684,
+        "bytes": 375474,
+        "sha256": "04414ea7d3155f83faa0ad006b4d19abc647f1c0d0280337efd034a60ba9e621"
+      }
+    ]
+  },
+  {
+    "name": "wuhan-panorama",
+    "title": "File:Skyline of Wuhan.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Skyline_of_Wuhan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Skyline_of_Wuhan.jpg/3840px-Skyline_of_Wuhan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Wuhan.jpg",
+    "originalWidth": 6317,
+    "originalHeight": 3596,
+    "artist": "Majorantarktis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "A view of Wuhan from the East Lake Greenway",
+    "downloadedAt": "2026-11-18T13:14:05.698680+00:00",
+    "downloadSha256": "b03437aff197da1780ca73261cf68ba0a266382eb50b0f995913300c992aaa0b",
+    "downloadWidth": 3840,
+    "downloadHeight": 2186,
+    "variants": [
+      {
+        "file": "wuhan-panorama-960.webp",
+        "width": 960,
+        "height": 546,
+        "bytes": 34936,
+        "sha256": "0b1b592c002820547bfd8ee09adae2ec4a08879db60186f2a2adeab3317c18ef"
+      },
+      {
+        "file": "wuhan-panorama-1920.webp",
+        "width": 1920,
+        "height": 1093,
+        "bytes": 103216,
+        "sha256": "1b611288a06e756a72e12a8c43e09536e8b73231804fcfb19142b68e0b4df090"
+      },
+      {
+        "file": "wuhan-panorama-2560.webp",
+        "width": 2560,
+        "height": 1457,
+        "bytes": 166136,
+        "sha256": "92739472388ec0777331a42cf3f5f893e475e7f2fbd3808244926151d19844bd"
+      },
+      {
+        "file": "wuhan-panorama-3840.webp",
+        "width": 3840,
+        "height": 2186,
+        "bytes": 356612,
+        "sha256": "05ef82127c83f00567d467c13094fa15f7b608545b3f59b6b4c3b48ad4a8c595"
+      }
+    ]
+  },
+  {
+    "name": "hot-dry-noodles",
+    "title": "File:Hot dry noodles.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_dry_noodles.jpg",
+    "artist": "Syouziiye",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "photoDate": "2026-02-08",
+    "changes": "缩放、WebP压缩，页面按容器裁切显示。"
+  },
+  {
+    "name": "doupi",
+    "title": "File:Doupi breakfast in Wuhan.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Doupi_breakfast_in_Wuhan.jpeg",
+    "artist": "ZhengZhou",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "photoDate": "",
+    "changes": "缩放、WebP压缩，页面按容器裁切显示。"
+  },
+  {
+    "name": "yellow-crane",
+    "title": "File:Yellow Crane Tower (10160077894).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Yellow_Crane_Tower_(10160077894).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Yellow_Crane_Tower_%2810160077894%29.jpg",
+    "originalWidth": 4752,
+    "originalHeight": 3168,
+    "artist": "Gary Todd",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "description": "Yellow Crane Tower, Wuhan, Hubei. Gary Todd / WorldHistoryPics.com.",
+    "downloadedAt": "2026-11-20T09:45:29.958163+00:00",
+    "downloadSha256": "e05e09b719998c9938d6e4097b68b3b5d2dd1da383bb9ec11013f862f71fe387",
+    "downloadWidth": 3840,
+    "downloadHeight": 2560,
+    "changes": "等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。",
+    "variants": [
+      {
+        "file": "yellow-crane-640.webp",
+        "width": 640,
+        "height": 427,
+        "sha256": "b12b2f1a8d5cc3acdc21d6c924ace7a333d14c3fb3dbd5b955805ea8a5ea9b81",
+        "bytes": 111084
+      },
+      {
+        "file": "yellow-crane-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "sha256": "b4b8d51c7f96502908c52afaf8b2ebad8c8c492bff582c34af9f564e024c257e",
+        "bytes": 398836
+      },
+      {
+        "file": "yellow-crane-2560.webp",
+        "width": 2560,
+        "height": 1707,
+        "sha256": "0d9bf9af34e5c8e8603dbd85c22ed4fd1b9e093e7f3b3bbd6b23c526dab6f62e",
+        "bytes": 1405776
+      },
+      {
+        "file": "yellow-crane-3840.webp",
+        "width": 3840,
+        "height": 2560,
+        "sha256": "f81f5211831ce759a6886e7e84315c32930380cf7348699c3c2c8237e31f123e",
+        "bytes": 2644362
+      }
+    ],
+    "publicWidth": 3840,
+    "publicHeight": 2560
+  },
+  {
+    "name": "eastlake",
+    "title": "File:East Lake Wuhan.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:East_Lake_Wuhan.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/East_Lake_Wuhan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "originalWidth": 3264,
+    "originalHeight": 2448,
+    "artist": "Zheng Zhou",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "East Lake Wuhan",
+    "downloadedAt": "2026-11-20T09:45:29.960104+00:00",
+    "downloadSha256": "b9c4ca84fe1ef4a2cb438e1dbe474a74d611add0f303c15d1b713cf265363520",
+    "downloadWidth": 3264,
+    "downloadHeight": 2448,
+    "changes": "等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。",
+    "variants": [
+      {
+        "file": "eastlake-640.webp",
+        "width": 640,
+        "height": 480,
+        "sha256": "373ed6bd01b0ce029180e1294bc90aa033c4f4ab18465fdc5b9c219a7550f845",
+        "bytes": 76100
+      },
+      {
+        "file": "eastlake-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "sha256": "fefa050fc4998aac69c88e52a8ae7367e5a60b03e28f83ffcc38a73d9342d582",
+        "bytes": 320566
+      },
+      {
+        "file": "eastlake-2560.webp",
+        "width": 2560,
+        "height": 1920,
+        "sha256": "e2a2ad3460ef52bc3d00812ab3ad2ed7a60c28cc365c3487733ab6dffcaddfdd",
+        "bytes": 1250184
+      }
+    ],
+    "publicWidth": 3264,
+    "publicHeight": 2448
+  },
+  {
+    "name": "museum",
+    "title": "File:湖北省博物馆鸟瞰图.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E6%B9%96%E5%8C%97%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86%E9%B8%9F%E7%9E%B0%E5%9B%BE.jpg",
+    "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%E6%B9%96%E5%8C%97%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86%E9%B8%9F%E7%9E%B0%E5%9B%BE.jpg/3840px-%E6%B9%96%E5%8C%97%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86%E9%B8%9F%E7%9E%B0%E5%9B%BE.jpg",
+    "originalWidth": 4608,
+    "originalHeight": 3456,
+    "artist": "谢宇杰",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "​湖北省博物馆的鸟瞰图",
+    "downloadedAt": "2026-11-20T09:45:35.559490+00:00",
+    "downloadSha256": "88daecec426ea50ff8bf084348c711636dde6feb488aaeee1f467524f62a9b3f",
+    "downloadWidth": 3840,
+    "downloadHeight": 2880,
+    "changes": "等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。",
+    "variants": [
+      {
+        "file": "museum-640.webp",
+        "width": 640,
+        "height": 480,
+        "sha256": "5cd552064a2a20ccd1f78e77dfd43ec39c30bb103452b60f99e02a31c1ec2087",
+        "bytes": 87726
+      },
+      {
+        "file": "museum-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "sha256": "42b7952f203dd1fe42cbb065bd084be797b6cbac3a49e559ff9d73f16d541af6",
+        "bytes": 351392
+      },
+      {
+        "file": "museum-2560.webp",
+        "width": 2560,
+        "height": 1920,
+        "sha256": "a1419f753591d2d58cd0d8a9eedd6906411e2cb7332d97df6c958f74f82c7f4e",
+        "bytes": 1473542
+      },
+      {
+        "file": "museum-3840.webp",
+        "width": 3840,
+        "height": 2880,
+        "sha256": "866c994bde064232abac2f3aff6cd8e82a7d342229053b86681e9c33c6e76299",
+        "bytes": 2942496
+      }
+    ],
+    "publicWidth": 3840,
+    "publicHeight": 2880
+  },
+  {
+    "name": "qingchuan",
+    "title": "File:晴川阁 20260920.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E6%99%B4%E5%B7%9D%E9%98%81_20260920.jpg",
+    "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%E6%99%B4%E5%B7%9D%E9%98%81_20260920.jpg/3840px-%E6%99%B4%E5%B7%9D%E9%98%81_20260920.jpg",
+    "originalWidth": 4096,
+    "originalHeight": 2728,
+    "artist": "Huangchinhsu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Qingchuan Pavilion",
+    "downloadedAt": "2026-11-20T09:45:40.148797+00:00",
+    "downloadSha256": "f52c162a3e4c01ba3ceaad0f3bd5fa6fa42be025738ef8ef210defd4c529a562",
+    "downloadWidth": 3840,
+    "downloadHeight": 2557,
+    "changes": "等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。",
+    "variants": [
+      {
+        "file": "qingchuan-640.webp",
+        "width": 640,
+        "height": 426,
+        "sha256": "e1ecdb7a9e3b306d29082c1a08ff63f1adcab2f54bb5bb3adfac7fb7716cf72f",
+        "bytes": 104864
+      },
+      {
+        "file": "qingchuan-1280.webp",
+        "width": 1280,
+        "height": 852,
+        "sha256": "c0f65ced85f84e85bc2ed09b6ed432fb537670b2222caa6e1b675bd0f5931204",
+        "bytes": 347364
+      },
+      {
+        "file": "qingchuan-2560.webp",
+        "width": 2560,
+        "height": 1705,
+        "sha256": "001ee38f6a9f44ad6d68d1812f19fcd60b6feb6f5b24266a979611e39723321a",
+        "bytes": 989784
+      },
+      {
+        "file": "qingchuan-3840.webp",
+        "width": 3840,
+        "height": 2557,
+        "sha256": "be5b56927a65c937e4ce9c9a5632df04ce4be2fc1e361dc5b270fdc726661200",
+        "bytes": 1680142
+      }
+    ],
+    "publicWidth": 3840,
+    "publicHeight": 2557
+  },
+  {
+    "name": "customs",
+    "title": "File:江汉关大楼全景 20201216.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%B1%89%E5%85%B3%E5%A4%A7%E6%A5%BC%E5%85%A8%E6%99%AF_20201216.jpg",
+    "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%E6%B1%9F%E6%B1%89%E5%85%B3%E5%A4%A7%E6%A5%BC%E5%85%A8%E6%99%AF_20201216.jpg/1920px-%E6%B1%9F%E6%B1%89%E5%85%B3%E5%A4%A7%E6%A5%BC%E5%85%A8%E6%99%AF_20201216.jpg",
+    "originalWidth": 3456,
+    "originalHeight": 4608,
+    "artist": "红渡厨",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "​2020年12月16日拍摄的江汉关大楼全景",
+    "downloadedAt": "2026-11-20T09:45:43.050641+00:00",
+    "downloadSha256": "6e295d8641f2bf1b9e6dcbf3edab2f80fcfe39123aa9c2288067163bb880864d",
+    "downloadWidth": 1920,
+    "downloadHeight": 2560,
+    "changes": "等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。",
+    "variants": [
+      {
+        "file": "customs-640.webp",
+        "width": 640,
+        "height": 853,
+        "sha256": "0dc14b657db4335de364c26bc5414806b5bf8c3ea14027ec29077dd15920bdaf",
+        "bytes": 119738
+      },
+      {
+        "file": "customs-1280.webp",
+        "width": 1280,
+        "height": 1707,
+        "sha256": "110f0eca701f5ca3e5bdff3ae37a2cfc81167c7c3b98d22c700db8273aa562b1",
+        "bytes": 396404
+      }
+    ],
+    "publicWidth": 1920,
+    "publicHeight": 2560
+  },
+  {
+    "name": "skyrail",
+    "title": "File:Optics Valley Suspended Monorail (2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Optics_Valley_Suspended_Monorail_(2).jpg",
+    "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Optics_Valley_Suspended_Monorail_%282%29.jpg/3840px-Optics_Valley_Suspended_Monorail_%282%29.jpg",
+    "originalWidth": 5809,
+    "originalHeight": 3873,
+    "artist": "Painjet",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "​武汉光谷空轨",
+    "downloadedAt": "2026-11-20T09:45:52.900664+00:00",
+    "downloadSha256": "1437c3cef722e8fb6b0ecf2a3060dc14974d500d8017247073c367dc33c35421",
+    "downloadWidth": 3840,
+    "downloadHeight": 2560,
+    "changes": "等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。",
+    "variants": [
+      {
+        "file": "skyrail-640.webp",
+        "width": 640,
+        "height": 427,
+        "sha256": "d6f0116317d3c92f9fab18eb4957e52eff0e3f3c844006a3b729f1f6e96cab2c",
+        "bytes": 89636
+      },
+      {
+        "file": "skyrail-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "sha256": "20a523be71950bcacfbc319571524d24058eb951bb5f2c1a7ce9b87d1d1a2f76",
+        "bytes": 294480
+      },
+      {
+        "file": "skyrail-2560.webp",
+        "width": 2560,
+        "height": 1707,
+        "sha256": "ec80fd521493aca3060ba05cb5b6c115857ece6a1de0a3764de140cbeaa2ca71",
+        "bytes": 1090456
+      },
+      {
+        "file": "skyrail-3840.webp",
+        "width": 3840,
+        "height": 2560,
+        "sha256": "44e0b936a1393f87ce8f88cb29bd722d7dad24be6cb440d67b5213b8aa62226f",
+        "bytes": 2304940
+      }
+    ],
+    "publicWidth": 3840,
+    "publicHeight": 2560
+  },
+  {
+    "name": "river",
+    "title": "File:黄鹤楼眺望武汉长江大桥.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E9%BB%84%E9%B9%A4%E6%A5%BC%E7%9C%BA%E6%9C%9B%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5.jpg",
+    "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%E9%BB%84%E9%B9%A4%E6%A5%BC%E7%9C%BA%E6%9C%9B%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5.jpg/3840px-%E9%BB%84%E9%B9%A4%E6%A5%BC%E7%9C%BA%E6%9C%9B%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5.jpg",
+    "originalWidth": 6106,
+    "originalHeight": 1670,
+    "artist": "Kevintown",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "description": "View of Wuhan from the top of the Yellow Crane Tower (Huanghe Lou), 2005-08-10. Wuchang is in the foreground; the Yangtze River with the First Bridge, and Hanyang / Hankou beyond it, are seen in the background.",
+    "downloadedAt": "2026-11-20T09:45:57.698758+00:00",
+    "downloadSha256": "8a8352fe4ef51ec54b8953d36c1cda053d6487e3793ccf3a5e2bd6cd6aa83f2c",
+    "downloadWidth": 3840,
+    "downloadHeight": 1050,
+    "changes": "等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。",
+    "variants": [
+      {
+        "file": "river-640.webp",
+        "width": 640,
+        "height": 175,
+        "sha256": "d2ce1bc4e2661c0c513b322efcbc75bcd596f963fbca405fcf1cbfae33039f3f",
+        "bytes": 34594
+      },
+      {
+        "file": "river-1280.webp",
+        "width": 1280,
+        "height": 350,
+        "sha256": "e866df3e200b26555c87260d62688d76bb0b4b80dc2b1833599686a70542a496",
+        "bytes": 130410
+      },
+      {
+        "file": "river-2560.webp",
+        "width": 2560,
+        "height": 700,
+        "sha256": "dfbf65b36d79b80cc986de6476743df1b51cf717f3a24e665baa647b9cdd96e2",
+        "bytes": 566820
+      },
+      {
+        "file": "river-3840.webp",
+        "width": 3840,
+        "height": 1050,
+        "sha256": "d9a8fd1170a16dafdd6aeb5a892aa31d2e082e6e38ff6a86f0868088d8c4d1e4",
+        "bytes": 1131698
+      }
+    ],
+    "publicWidth": 3840,
+    "publicHeight": 1050
+  },
+  {
+    "name": "street",
+    "title": "File:20240622 Xian An Fang 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20240622_Xian_An_Fang_01.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/20240622_Xian_An_Fang_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/20240622_Xian_An_Fang_01.jpg/1280px-20240622_Xian_An_Fang_01.jpg",
+    "originalWidth": 1800,
+    "originalHeight": 1200,
+    "artist": "Windmemories",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadedAt": "2026-11-20T09:46:50.699159+00:00",
+    "downloadSha256": "126b2e334d9e217a794083dcafc7b3b02e77f0173a8827557b9f78feb9992871",
+    "downloadWidth": 1280,
+    "downloadHeight": 853,
+    "changes": "WebP压缩、网页容器裁切；未放大、未模糊。",
+    "variants": [
+      {
+        "file": "street-640.webp",
+        "width": 640,
+        "height": 426,
+        "sha256": "c0325563c4b6a4a41d684f4c6383618b2b28224fe291f2efd684a18f70ee7ce2",
+        "bytes": 135154
+      },
+      {
+        "file": "street-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "sha256": "fe6f61da3bd3288a3c6ed2b2c412d3dd9656f0cb36b713cf0e18e6356019e17f",
+        "bytes": 552146
+      }
+    ],
+    "publicWidth": 1280,
+    "publicHeight": 853
+  },
+  {
+    "name": "pinghe",
+    "title": "File:20240622 Former Site of Ping He Packaging Factory 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20240622_Former_Site_of_Ping_He_Packaging_Factory_01.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/20240622_Former_Site_of_Ping_He_Packaging_Factory_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/20240622_Former_Site_of_Ping_He_Packaging_Factory_01.jpg/1280px-20240622_Former_Site_of_Ping_He_Packaging_Factory_01.jpg",
+    "originalWidth": 1800,
+    "originalHeight": 1200,
+    "artist": "Windmemories",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadedAt": "2026-11-20T09:46:53.880982+00:00",
+    "downloadSha256": "7779a5ac123e0875940fb237cbf286035c6939f3a4f8920b91c10e9614cb055d",
+    "downloadWidth": 1280,
+    "downloadHeight": 853,
+    "changes": "WebP压缩、网页容器裁切；未放大、未模糊。",
+    "variants": [
+      {
+        "file": "pinghe-640.webp",
+        "width": 640,
+        "height": 426,
+        "sha256": "ee501bfd3132f7c011e790e1ddaf882e74a4b0c9e57f14f3a6a2972f0b167d09",
+        "bytes": 122092
+      },
+      {
+        "file": "pinghe-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "sha256": "951cba54f8f977000d88409fc0743bf23f40e4957d2bbb0b37cd0004127c788d",
+        "bytes": 483940
+      }
+    ],
+    "publicWidth": 1280,
+    "publicHeight": 853
+  },
+  {
+    "name": "tanhualin",
+    "title": "File:Tanhualin.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Tanhualin.JPG",
+    "artist": "Howchou",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "downloadWidth": 3872,
+    "downloadHeight": 2592,
+    "changes": "等比缩小、WebP压缩、网页容器裁切；未放大、未模糊。",
+    "variants": [
+      {
+        "file": "tanhualin-640.webp",
+        "width": 640,
+        "height": 428,
+        "sha256": "ebdc8c6f3bc486479b0578df1da5238c59624c4439a213934bdde4958c05efc2",
+        "bytes": 109716
+      },
+      {
+        "file": "tanhualin-1280.webp",
+        "width": 1280,
+        "height": 857,
+        "sha256": "755dfd624fe1245fb6140987b5c9a9e9b7d74276e6c7c93053bddcb116a86634",
+        "bytes": 323882
+      },
+      {
+        "file": "tanhualin-2560.webp",
+        "width": 2560,
+        "height": 1714,
+        "sha256": "31b354101ec45e3bee6e6742fd9d136fc787452459ae963a7addab5044f57794",
+        "bytes": 928368
+      },
+      {
+        "file": "tanhualin-3840.webp",
+        "width": 3840,
+        "height": 2571,
+        "sha256": "0cac84b9ad2dd7aef884a3115ab7483b88c37ca4e8a78f5ce48ef10c482cb2bc",
+        "bytes": 1558218
+      }
+    ],
+    "publicWidth": 3840,
+    "publicHeight": 2571
+  }
+]

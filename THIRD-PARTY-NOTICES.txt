@@ -1,0 +1,113 @@
+武汉城市接待室 — 第三方工具与素材说明
+核对日期：2026-11-20（轻快背景音乐歌单）
+
+一、官方赛事资料
+SAIG官网：https://www.dlife.love/saig/
+官方素材包：https://shuming-official-file.markyin.com/static/file/SAIGS01CompetitionMaterials.zip
+武汉旅游产品手册、武汉概览、数命SPU与社区说明、江豚形象均来自该素材包。城市与社区图片从素材中提取、裁切和压缩。权利属于原作者/权利人；本作品没有原创这些照片、形象，也不将素材声明为可通用商业转授权。社区实拍与规划图已区分。
+本作品非主办方官方服务，不代表景点或社区已开放/已预约。
+新增的蓝白色3D小伙伴「江江」为代码构建的交互玩偶，其正、侧、背面贴图来自官方三视图的裁切与重投影，尾部使用局部绒毛取样；不是独立原创角色，也不是官方原始3D资产，也不是主办方推出的角色。静态问答图片及WebGL不可用时的图片仍来自上述素材。
+
+二、本地语义模型
+模型：BAAI/bge-small-zh-v1.5；浏览器量化分发：Xenova/bge-small-zh-v1.5
+上游：https://huggingface.co/BAAI/bge-small-zh-v1.5
+分发：https://huggingface.co/Xenova/bge-small-zh-v1.5
+分发revision：75c43b069aac4d136ba6bc1122f995fedcfd2781
+上游README标注MIT许可证。来源、文件SHA256和README保存在项目赛事资料目录。
+这是一套文本嵌入模型，负责语义检索；回答由已审阅资料片段组成，不是生成式大模型。
+
+三、软件和字体
+随包依赖的版本、许可证标识及许可证文本索引见 ./licenses/dependency-index.json。
+React/React DOM：MIT。Vite：MIT（构建工具）。Transformers.js：Apache-2.0。ONNX Runtime：MIT。Lucide：ISC。DM Sans：SIL OFL。
+Three.js 0.187.0：MIT。3D网格由本作品程序生成；阴影纹理本机绘制；互动提示音由Web Audio合成，无外部音效文件。没有调用外部生图、建模或语音服务。
+背景音乐的单独许可见下文“七、古筝背景音乐”。
+GSAP适用其标准许可证，包括相关限制；不将其重新声明为MIT。https://gsap.com/standard-license/
+DM Sans仅拉丁字形，中文使用设备系统字体。朗读由浏览器/操作系统提供，不附送或再许可系统语音文件。
+
+四、数据与隐私
+本地语义检索不向模型供应商发送问题。模型、字体、知识与运行时均同源加载；外部资料/地图仅在主动打开链接时访问。本机保存使用当前浏览器localStorage。
+未接入实时天气、票务、交通路由或报名系统。不要将估算的停留、转场与预算当作实时服务或报价。未保存草稿使用sessionStorage，正式存档使用localStorage；JSON可换设备继续修改。
+
+五、新增武汉全景摄影（2026-11-18）
+作者：Majorantarktis，许可：Creative Commons Attribution-ShareAlike 4.0 International。
+https://creativecommons.org/licenses/by-sa/4.0/
+Skyline of Wuhan-2.jpg：https://commons.wikimedia.org/wiki/File:Skyline_of_Wuhan-2.jpg
+Skyline of Wuhan.jpg：https://commons.wikimedia.org/wiki/File:Skyline_of_Wuhan.jpg
+分别从东湖绿道眺望武汉。原始照片尺寸为6578×2885和6317×3596；实际下载Commons提供的3840px版本（3840×1684 / 3840×2186），不是下载原始大图。
+网页使用WebP压缩和响应式尺寸，页面中按容器裁切；这些修改版摄影仍按CC BY-SA 4.0提供，来源和文件SHA见photo-credits.json。许可只适用于相应摄影，不扩展到赛事角色或所有代码。
+
+六、旅行增强的地图与美食摄影
+Leaflet 1.9.4：BSD-2-Clause，许可证见licenses/leaflet-LICENSE与dependency-index.json。在线瓦片来自OpenStreetMap，仅用户主动加载后连接；© OpenStreetMap contributors，数据ODbL 1.0。https://www.openstreetmap.org/copyright
+经纬度来自公开百科坐标与核对后的OpenStreetMap对象中心，连线展示顺序，不是道路导航。地点搜索由第三方地图继续处理。
+热干面：Syouziiye / CC BY4.0；https://commons.wikimedia.org/wiki/File:Hot_dry_noodles.jpg；https://creativecommons.org/licenses/by/4.0/。
+豆皮：ZhengZhou / CC BY-SA4.0；https://commons.wikimedia.org/wiki/File:Doupi_breakfast_in_Wuhan.jpeg；https://creativecommons.org/licenses/by-sa/4.0/。
+两图均缩放、压缩为WebP，按容器裁切。豆皮图片派生文件继续按CC BY-SA4.0提供。它们为食物品类示意，不代表作者或商家背书。完整元数据见photo-credits.json。
+马蜂窝仅作信息组织和旅行浏览流程研究，没有复制其游记长文、用户评价、交易或版权照片。六条路线为本作品编排示例，非马蜂窝或游客实测案例。
+
+七、古筝背景音乐（2026-11-20）
+Guzheng City (ISRC USUAN2100001)
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+来源：https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100001
+许可说明：https://incompetech.com/music/royalty-free/licenses/
+
+原曲乐器：古筝及Dhol打击乐，104 BPM。本作将其用于轻快国风的漫游氛围；不是武汉本地录音、武汉民乐或官方配乐，也不声称含笛箫。
+本作品处理：保留完整录音，调整响度、首0.25秒轻微淡入并压缩为44.1kHz立体声MP3；未改编曲调。
+分发文件：audio/guzheng-city.mp3。只在访客明确开启背景音乐后同源加载与播放，曲终自动重新开始。
+原始录音、官方目录元数据、处理日志和SHA256见项目“赛事资料/地域配乐候选-2026-11-20”；官方许可页原件沿用“赛事资料/轻快配乐-2026-11-20/official-license.html”。
+此前古琴《流水》及Carefree、Life of Riley、Daily Beetle已按用户反馈退出当前网页包；原件、许可及历史证据保留在本地项目归档与Git历史。
+
+
+十一、高清地标替换与原创线条插画（2026-11-20）
+yellow-crane — File:Yellow Crane Tower (10160077894).jpg
+作者：Gary Todd；许可：CC0 https://creativecommons.org/publicdomain/zero/1.0/
+来源：https://commons.wikimedia.org/wiki/File:Yellow_Crane_Tower_(10160077894).jpg
+处理：等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。
+
+eastlake — File:East Lake Wuhan.JPG
+作者：Zheng Zhou；许可：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+来源：https://commons.wikimedia.org/wiki/File:East_Lake_Wuhan.JPG
+处理：等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。
+
+museum — File:湖北省博物馆鸟瞰图.jpg
+作者：谢宇杰；许可：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+来源：https://commons.wikimedia.org/wiki/File:%E6%B9%96%E5%8C%97%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86%E9%B8%9F%E7%9E%B0%E5%9B%BE.jpg
+处理：等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。
+
+qingchuan — File:晴川阁 20260920.jpg
+作者：Huangchinhsu；许可：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+来源：https://commons.wikimedia.org/wiki/File:%E6%99%B4%E5%B7%9D%E9%98%81_20260920.jpg
+处理：等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。
+
+customs — File:江汉关大楼全景 20201216.jpg
+作者：红渡厨；许可：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+来源：https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E6%B1%89%E5%85%B3%E5%A4%A7%E6%A5%BC%E5%85%A8%E6%99%AF_20201216.jpg
+处理：等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。
+
+skyrail — File:Optics Valley Suspended Monorail (2).jpg
+作者：Painjet；许可：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+来源：https://commons.wikimedia.org/wiki/File:Optics_Valley_Suspended_Monorail_(2).jpg
+处理：等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。
+
+river — File:黄鹤楼眺望武汉长江大桥.jpg
+作者：Kevintown；许可：Public domain 
+来源：https://commons.wikimedia.org/wiki/File:%E9%BB%84%E9%B9%A4%E6%A5%BC%E7%9C%BA%E6%9C%9B%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5.jpg
+处理：等比缩小、WebP压缩；网页容器裁切显示，无放大、无模糊、无生成式增强。
+
+street — File:20240622 Xian An Fang 01.jpg
+作者：Windmemories；许可：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+来源：https://commons.wikimedia.org/wiki/File:20240622_Xian_An_Fang_01.jpg
+处理：WebP压缩、网页容器裁切；未放大、未模糊。
+
+pinghe — File:20240622 Former Site of Ping He Packaging Factory 01.jpg
+作者：Windmemories；许可：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+来源：https://commons.wikimedia.org/wiki/File:20240622_Former_Site_of_Ping_He_Packaging_Factory_01.jpg
+处理：WebP压缩、网页容器裁切；未放大、未模糊。
+
+tanhualin — File:Tanhualin.JPG
+作者：Howchou；许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+来源：https://commons.wikimedia.org/wiki/File:Tanhualin.JPG
+处理：等比缩小、WebP压缩、网页容器裁切；未放大、未模糊。
+
+中华路城市阳台卡片使用黄鹤楼视角的周边江景，不冒充城市阳台现场视角。科技馆及建筑科技馆使用本项目原创SVG主题插画，非建筑实景或建筑复原。照片年份与旧影不保证现状。完整下载与处理证据保存在项目赛事资料目录。
